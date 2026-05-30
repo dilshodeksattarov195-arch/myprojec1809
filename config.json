@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "userdave",
+        "uuid": 6432804,
+        "checksum": "dveahq"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
